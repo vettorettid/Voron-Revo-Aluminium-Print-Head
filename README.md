@@ -23,7 +23,15 @@ ISO 10642 M3x10 | 7        |
 
 ## Pictures
 
-![alt text](./img/img001.jpg)
+![img001.jpg](img/img001.jpg)
+
+![img001.jpg](img/img002.jpg)
+
+![img001.jpg](img/img003.jpg)
+
+![img001.jpg](img/img004.jpg)
+
+![img001.jpg](img/img005.jpg)
 
 ## License
 
